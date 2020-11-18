@@ -1,7 +1,7 @@
 {
   "name": "text",
   "version": "1.0.0",
-  "description": "have a text",
+  "description": "webpack + react + typescript新建项目",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -9,6 +9,8 @@
   "author": "carolCross",
   "license": "ISC",
   "dependencies": {
-    "jest": "^26.6.3"
+    "jest": "^26.6.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
