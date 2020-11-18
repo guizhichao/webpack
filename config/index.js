@@ -5,8 +5,7 @@
  * @LastEditors: cross.Carol
  * @LastEditTime: 2020-11-18 16:40:50
  */
-
- import path from 'path';
+ const path = require('path');
  module.exports = {
     dev: {
       env: require('./dev.env'),

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    // 允许合成默认导出
+    "allowSyntheticDefaultImports": true, 
+    "jsx": "react",
+    "lib": ["es6", "dom"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noImplicitAny": false, // 决定如何处理模块
+    "rootDir": "src",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
+}
